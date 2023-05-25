@@ -1,14 +1,5 @@
-<p align="center">
-    <a href="https://github.com/5hojib/luna">
-        <kbd>
-            <img width="250" src="https://github.com/5hojib/cdn/raw/main/purple-flowers-dark-background.jpg" alt="Flowers pic">
-        </kbd>
-    </a>
-</p>
-
+ 
  ![Render](https://img.shields.io/badge/Render-Deploy-000000)
-
-
 
 
 
