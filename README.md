@@ -6,30 +6,11 @@
     </a>
 </p>
 
-[![Support Group](https://img.shields.io/badge/Support%20Group-Join-000000)](https://t.me/Luna073xChat)     [![Render](https://img.shields.io/badge/Render-Deploy-000000)](https://render.com/deploy?repo=) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hojib%2Fluna&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/5hojib/luna)
+[![Support Group](https://img.shields.io/badge/Support%20Group-Join-000000)]()     [![Render](https://img.shields.io/badge/Render-Deploy-000000)](https://render.com/deploy?repo=) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hojib%2Fluna&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/5hojib/luna)
 
-### Instructions for Render
-1. Fork and star this repository.
-2. Go to your forked repository.
-3. Click on `Render deploy` button.
-4. Fill in all variables correctly and start the deployment.
-5. After deployment, fill in `BASE_URL` using the `bsetting` command from the bot.
-6. Fill in the other variables using the `bsetting` command or by writing them in `sample_config.env` and renaming the file to `config.env`.
-7. Upload `token.pickle` and other private files using the `bsetting` command from the bot.
 
-### Instructions for Railway
-1. Fork and star this repository.
-2. Go to your forked repository.
-3. Delete `README.md` and `sample_config.env`.
-4. Go to your Railway account and start deploy from GitHub repository.
-5. Select forked repository and fill in these variables:
-* `BOT_TOKEN`
-* `OWNER_ID`
-* `DATABASE_URL`
-* `TELEGRAM_API`
-* `TELEGRAM_HASH` 
-6. After deployment, fill in the other variables using the `bsetting` command from the bot.
-7. Upload `token.pickle` and other private files using the `bsetting` command from the bot.
+
+
 
 ### Bot commands
 ```
@@ -69,14 +50,3 @@ ping - Ping the Bot
 help - All cmds with description
 ```
 
-### Modified from
-* [JMDKH](https://github.com/junedkh/jmdkh-mltb)
-* [MLTB](https://github.com/anasty17/mirror-leech-telegram-bot)
-
-### Thanks To
-* [Juned KH](https://github.com/junedkh)
-* [Anas](https://github.com/anasty17)
-* [Abdullah al noman](https://github.com/SN-Abdullah-Al-Noman)
-* [ChatGPT](https://chat.openai.com/)
-
-You can't donate me! 🤣
