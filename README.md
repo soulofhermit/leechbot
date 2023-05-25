@@ -11,10 +11,6 @@
 
 
 
-### Variables
-
-* `API_HASH` Your API Hash from my.telegram.org
-
 
 https://render.com/deploy?repo=
 
