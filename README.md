@@ -12,7 +12,6 @@
 
 
 
-https://render.com/deploy?repo=
 
 ### Admin Commands
 ```
