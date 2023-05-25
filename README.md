@@ -1,5 +1,5 @@
  
- ![Render](https://img.shields.io/badge/Render-Deploy-000000)
+ ![Render](https://render.com/deploy?repo=github.com/soulofhermit/leechbot/)
 
 
 
