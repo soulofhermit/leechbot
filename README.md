@@ -1,7 +1,3 @@
- 
- ![Render](https://render.com/deploy?repo=github.com/soulofhermit/leechbot/)
-
-
 
 
 ### Admin Commands
