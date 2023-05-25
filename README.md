@@ -8,11 +8,12 @@
 
 [![Support Group](https://img.shields.io/badge/Support%20Group-Join-000000)]()     [![Render](https://img.shields.io/badge/Render-Deploy-000000)](https://render.com/deploy?repo=) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hojib%2Fluna&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/5hojib/luna)
 
+### Variables
+
+* `API_HASH` Your API Hash from my.telegram.org
 
 
-
-
-
+### Admin Commands
 ```
 leech - or /l Leech
 zipleech - or /zl Leech and upload as zip
