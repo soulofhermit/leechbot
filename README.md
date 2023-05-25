@@ -6,7 +6,7 @@
     </a>
 </p>
 
- [![Render](https://img.shields.io/badge/Render-Deploy-000000)
+ ![Render](https://img.shields.io/badge/Render-Deploy-000000)
 
 
 
