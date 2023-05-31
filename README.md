@@ -2,6 +2,12 @@
 
 ### Admin Commands
 ```
+mirror - or /m Mirror
+zipmirror - or /zm Mirror and upload as zip
+unzipmirror - or /uzm Mirror and extract files
+qbmirror - or /qm Mirror torrent using qBittorrent
+qbzipmirror - or /qzm Mirror torrent using qb and upload as zip
+qbunzipmirror - or /quzm Mirror torrent using qb and extract files
 leech - or /l Leech
 zipleech - or /zl Leech and upload as zip
 unzipleech - or /uzl Leech and extract files
